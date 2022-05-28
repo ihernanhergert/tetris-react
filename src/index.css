@@ -13,5 +13,6 @@ code {
 }
 body{
   background-image: url('../public/tetrisBG.jpg');
-  font-family: 'Math';
+  font-family: 'Monospace';
+  background-position-x: right;
 }
